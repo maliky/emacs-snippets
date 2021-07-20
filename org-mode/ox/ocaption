@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: caption
+# key: ocap
+# binding: direct-keybinding
+# group: ox
+# --
+#+CAPTION: $0

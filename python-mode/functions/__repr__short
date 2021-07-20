@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: __repr__
+# key: reps
+# group: functions
+# --
+def __repr__(self):
+    $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: autoreload 1
+# key: %ar1
+# group: jupyter
+# --
+%autoreload 1

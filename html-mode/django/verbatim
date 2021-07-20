@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: verbatim
+# key: dvb
+# group: html-django
+# --
+{% verbatim %}
+$0
+{% endverbatim %}
+

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: meth-unmount
+# key: mcum
+# group: js-react
+# --
+componentWillUnmount() {
+$1
+}$0

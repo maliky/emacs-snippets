@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: exec p7
+# key: p7
+# group: exec
+# --
+#!/usr/bin/python3.7
+# -*- coding: utf-8 -*-

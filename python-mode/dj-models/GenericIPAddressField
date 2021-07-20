@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: genericipaddress
+# key: mgeiip
+# group: dj-models
+# --
+$1 = models.GenericIPAddressField()$0

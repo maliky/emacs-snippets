@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: index
+# key: oid
+# binding: direct-keybinding
+# group: ox
+# --
+#+INDEX: $0

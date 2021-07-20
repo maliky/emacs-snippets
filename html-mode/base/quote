@@ -1,0 +1,7 @@
+# name: <blockquote
+# key:block
+# group: html-base
+# --
+<blockquote>
+  $1
+</blockquote>

@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: #+include
+# key: #i
+# binding: direct-keybinding
+# group: ox-keyword
+# --
+#+INCLUDE: "$1" $0 

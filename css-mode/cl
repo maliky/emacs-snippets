@@ -1,0 +1,5 @@
+# name: clear
+# key: clear
+# group: css-general
+# --
+clear: $1;

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ormq
+# key: ormq
+# group: ox
+# --
+#+BEGIN_remarque
+    $0
+#+END_remarque

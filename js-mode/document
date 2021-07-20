@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: document
+# key: d.
+# group: js
+# --
+document.

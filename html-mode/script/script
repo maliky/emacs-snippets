@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: script
+# key: script
+# group: html-script
+# --
+<script ${1:type="${2:text/javascript}"} ${3:src="$4"}>$5</script>$0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: rform
+# key: rform
+# group: js-react
+# --
+<form onSubmit={${1:this.handleSubmit}}$2>
+$0
+</form>

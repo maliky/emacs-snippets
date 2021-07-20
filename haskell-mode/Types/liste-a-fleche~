@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: list-a-fleche
+# key: laf
+# --
+[a] ->$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: imply
+# key: im
+# group: haskell
+# --
+=> $0

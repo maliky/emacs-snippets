@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: text
+# key: mte
+# group: dj-models
+# --
+$1 = models.TextField()$0

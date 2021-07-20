@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: extends
+# key: dex
+# group: html-django
+# --
+{% extends %}

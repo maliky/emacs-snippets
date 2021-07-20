@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: bigauto
+# key: mbiauo
+# group: dj-models
+# --
+$1 = models.BigAutoField()$0

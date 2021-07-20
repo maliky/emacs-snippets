@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: <h1
+# key:h1
+# group: html-header
+# --
+<h1>$1</h1>$0

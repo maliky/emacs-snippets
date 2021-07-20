@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: setAttribute
+# key: .sa
+# group: js
+# --
+$1.setAttribute("$2", "$3");

@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: startup
+# key: ostp
+# binding: direct-keybinding
+# group: ox
+# --
+#+STARTUP: $0

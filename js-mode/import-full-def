@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: import-full-def
+# key: imd
+# group: js
+# --
+import $2 from "$1";$0

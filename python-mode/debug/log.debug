@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: log.debug
+# key: lgd
+# group: debug
+# --
+logging.debug(f'${1:}={$1}$2')$0

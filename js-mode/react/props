@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: {props}
+# key: prs
+# group: js-react
+# --
+{props$0}

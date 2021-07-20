@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: algo
+# key: algo
+# group: algo
+# --
+\begin{algorithmic}
+$0
+\end{algorithmic}

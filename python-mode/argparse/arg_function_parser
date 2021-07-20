@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: arg-function-parser
+# key: agfp
+# group: argparser
+# --
+def parse_arguments():
+    parser = argparse.ArgumentParser(description='$1')
+    
+    return parser.parse_args()
+
+$0args = parse_arguments()

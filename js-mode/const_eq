@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: const equal
+# key: c=
+# group: js
+# --
+const $1 = $0

@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: gsnas
+# key: gsnas
+# binding: direct-keybinding
+# group: man_glo
+# --
+\glspl{sna}

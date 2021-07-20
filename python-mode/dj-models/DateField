@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: date
+# key: mdae
+# group: dj-models
+# --
+$1 = models.DateField()$0

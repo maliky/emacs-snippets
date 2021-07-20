@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: fillwithdottedlines
+# key: fwdl
+# binding: direct-keybinding
+# group: exam
+# --
+\fillwithdottedlines{$0cm}

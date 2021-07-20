@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gshort-answer-wrong
+# key: gshw
+# group: gift
+# --
+~%$1%$2${3:#}$0

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: définition
+# key: defi
+# binding: direct-keybinding
+# group: structure
+# --
+\begin{defi}
+$0
+\end{defi}

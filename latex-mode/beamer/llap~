@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: llap
+# key: ll
+# group: beamer
+# binding: direct-keybinding
+# --
+\begin{$1}$0

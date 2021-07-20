@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: tikz
+# key: tikz
+# group: figures
+# binding: direct-keybinding
+# --
+\begin{tikzpicture}
+$0
+\end{tikzpicture}

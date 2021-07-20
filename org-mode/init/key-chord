@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: key-chord
+# key: €kc
+# group: init
+# --
+(key-chord-define-global "$1" '$2)$0

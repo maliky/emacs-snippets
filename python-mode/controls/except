@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: except
+# key: exc
+# group: controls
+# --
+except ${1:Exception} as ex:
+    $0
+    raise(ex)

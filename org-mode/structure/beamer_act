@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: :BEAMER_ACT:
+# key: :ba
+# group: structure
+# --
+:BEAMER_ACT: $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: :BEAMER_eNV:
+# key: :be
+# group: structure
+# --
+:BEAMER_ENV: $0

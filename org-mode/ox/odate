@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: date
+# key: odate
+# binding: direct-keybinding
+# group: ox
+# --
+#+DATE: $0

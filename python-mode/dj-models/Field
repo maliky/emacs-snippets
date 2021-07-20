@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: 
+# key: m
+# group: dj-models
+# --
+$1 = models.Field()$0

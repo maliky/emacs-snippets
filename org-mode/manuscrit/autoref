@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: autoref
+# key: autoref
+# group: manuscrit
+# --
+@@latex:\autoref{$1}@@$0

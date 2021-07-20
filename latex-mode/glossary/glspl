@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: glspl
+# group : glossary
+# key: gp
+# binding: direct-keybinding
+# --
+\glspl{${1:label}}$0

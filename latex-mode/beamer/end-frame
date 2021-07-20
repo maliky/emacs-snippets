@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: end-frame
+# key: ef
+# group: beamer
+# binding: direct-keybinding
+# --
+\end{frame}$0

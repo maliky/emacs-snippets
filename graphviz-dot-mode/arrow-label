@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: arrow-label
+# key: alb
+# --
+$1 [label="${2:$1}", shape="${3:ellipse}"];
+$4 [label="${5:$4}", shape="${6:ellipse}"];
+$1-> $4 [label="$7"];$0

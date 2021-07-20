@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: ipaddress
+# key: mipae
+# group: dj-models
+# --
+$1 = models.IPAddressField()$0

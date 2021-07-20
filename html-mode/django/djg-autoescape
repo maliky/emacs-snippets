@@ -1,0 +1,9 @@
+# contributor: Malik Koné <malik@kone.ci>
+# name: autoescape
+# key: dae
+# group: html-django
+# binding: direct-keybinding
+# --
+{% autoescape $1 %}
+$0
+{% autoescape %}

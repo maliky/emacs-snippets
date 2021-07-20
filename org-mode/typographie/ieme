@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: ieme
+# key: ieme
+# binding: direct-keybinding
+# group: abbv
+# --
+$1\ieme{}$0

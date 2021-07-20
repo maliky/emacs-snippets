@@ -1,0 +1,5 @@
+# name: <tag attr..>
+# key: ta
+# group: nxml-base
+# --
+<${1:tag} $2="$3">$4</$1>$0

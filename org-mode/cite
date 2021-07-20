@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: ecite
+# key: ecite
+# group : bibliographie
+# binding: direct-keybinding
+# --
+$0 \cite{$1}

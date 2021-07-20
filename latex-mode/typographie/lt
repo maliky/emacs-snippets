@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: less than
+# key: lt
+# group: typographie
+# binding: direct-keybinding
+# --
+<

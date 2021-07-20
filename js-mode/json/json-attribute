@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: json-attibute
+# key: ja
+# group: js-json
+# --
+"$1": "$2",$0

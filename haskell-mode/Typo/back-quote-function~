@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: back-quote-function
+# key: qf
+# --
+$2 \`$1\` $0

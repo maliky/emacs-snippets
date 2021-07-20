@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: String-fleche
+# key: Sf
+# --
+String ->$0

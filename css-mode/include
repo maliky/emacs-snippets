@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: @include
+# key: cinc
+# group: css-general
+# --
+@include $1($2);
+$0

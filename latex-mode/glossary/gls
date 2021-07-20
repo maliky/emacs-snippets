@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: gls
+# group : glossary
+# key: g
+# binding: direct-keybinding
+# --
+\gls{${1:label}}$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: url
+# key: durl
+# group: html-django
+# --
+{% url '$1' %}$0

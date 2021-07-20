@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: manytomany
+# key: mmayto
+# group: dj-models
+# --
+$1 = models.ManyToManyField()$0

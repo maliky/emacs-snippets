@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: time
+# key: mtie
+# group: dj-models
+# --
+$1 = models.TimeField()$0

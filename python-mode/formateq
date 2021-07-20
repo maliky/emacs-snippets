@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: equalInFormat
+# key: f=
+# group: general
+# --
+$1={$1}$0

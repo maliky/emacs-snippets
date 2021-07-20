@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: now
+# key: dnow
+# group: html-django
+# --
+{% now "$0" %}

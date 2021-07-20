@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: vref
+# key: vref
+# group: manuscrit
+# --
+@@latex:\vref{$1}@@$0

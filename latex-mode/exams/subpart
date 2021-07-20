@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: subpart
+# key: sp
+# group: exam
+# binding: direct-keybinding
+# --
+\subpart[$1] $0

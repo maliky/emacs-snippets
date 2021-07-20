@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-mauvaise
+# key: amcmr
+# group : amc
+# binding: direct-keybinding
+# --
+
+\mauvaise{$1}$0

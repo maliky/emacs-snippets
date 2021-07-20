@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: self
+# key: .
+# group: Oo
+# --
+self.$0

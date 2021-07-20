@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src-emacs-lisp
+# key: __el
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+BEGIN_SRC emacs-lisp -i
+$0
+#+END_SRC

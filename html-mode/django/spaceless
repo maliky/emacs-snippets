@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: spaceless
+# key: dspless
+# group: html-django
+# --
+{% spaceless %}
+$0
+{% endspaceless %}
+

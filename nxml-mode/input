@@ -1,0 +1,5 @@
+# name: <input
+# key: <input
+# group: nxml-base
+# --
+<input type="$1" name="$2" value="$3" />

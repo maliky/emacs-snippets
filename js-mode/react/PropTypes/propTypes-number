@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: propTypes-number
+# key: :prn
+# group: js-react
+# --
+$1: PropTypes.number$0

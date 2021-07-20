@@ -1,0 +1,13 @@
+# contributor: Malik Koné <malik@kone.ci>
+# name: else-if
+# key: deif
+# group: html-django
+# binding: direct-keybinding
+# --
+{% if $1 %}
+$2
+{% elif %}
+$3
+{% else %}
+$0
+{% endif %}

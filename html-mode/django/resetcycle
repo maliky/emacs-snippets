@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: resetcycle
+# key: dresetc
+# group: html-django
+# --
+{% resetcycle %}

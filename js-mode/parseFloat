@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: parseFloat
+# key: pfl
+# group: js
+# --
+parseFloat($0)

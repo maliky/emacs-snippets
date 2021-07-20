@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: #+attr
+# key: katt
+# binding: direct-keybinding
+# group: ox-keyword
+# --
+#+ATTR_$1 : $0

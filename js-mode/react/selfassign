@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: selfassign
+# key: sn
+# group: js-react
+# --
+self.$1 = $1

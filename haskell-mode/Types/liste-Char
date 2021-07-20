@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: list-char
+# key: lc
+# group: types-hs
+# --
+[Char] $0

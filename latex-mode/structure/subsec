@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: subsec
+# key: ssec
+# group : structure
+# binding: direct-keybinding
+# --
+\subsection{${1:name}}
+${2:\label{ssec:${3:label}}}
+$0

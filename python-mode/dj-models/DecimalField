@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: decimal
+# key: mdeia
+# group: dj-models
+# --
+$1 = models.DecimalField()$0

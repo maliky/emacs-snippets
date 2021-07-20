@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: class
+# key: cls
+# group: Oo
+# --
+class ${1:class}${2:(${3:ext})}:
+    $0

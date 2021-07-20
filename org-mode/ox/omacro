@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: macro
+# key: omacro
+# binding: direct-keybinding
+# group: ox
+# --
+#+MACRO: $0

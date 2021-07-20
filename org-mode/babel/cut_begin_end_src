@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: #cut_begin_src
+# key: __cbe
+# --
+#+end_src
+
+#+begin_src ${1:lang}

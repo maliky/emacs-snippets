@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: fi
+# key: fi
+# binding: direct-keybinding
+# group: exam
+# --
+\fillin $0

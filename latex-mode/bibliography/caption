@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: caption
+# key: caption
+# group : bibliographie
+# binding: direct-keybinding
+# --
+\caption{$0}

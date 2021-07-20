@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: setState(state)
+# key: tsss
+# group: js-react
+# --
+this.setState(state => {
+$1: $0
+})

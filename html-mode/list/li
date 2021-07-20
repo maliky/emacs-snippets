@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné
+# name: li
+# key: li
+# group: html-list
+# --
+<li${1: id="item-$2" ${3:class="item"}}>$0</li>

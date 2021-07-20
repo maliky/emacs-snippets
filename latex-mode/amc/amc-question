@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-question
+# key: amcq
+# group : amc
+# binding: direct-keybinding
+# --
+\begin{question}{$1}
+$0
+\end{question}

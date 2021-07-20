@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: email
+# key: meai
+# group: dj-models
+# --
+$1 = models.EmailField()$0

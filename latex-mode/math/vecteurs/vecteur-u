@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: xvec
+# key: vu
+# group: math
+# binding: direct-keybinding
+# --
+\xvec{u}$0

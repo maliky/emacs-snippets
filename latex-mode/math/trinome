@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: trinome
+# key: tri
+# group: math
+# binding: direct-keybinding
+# --
+${1:a}x^2+${2:b}x+${3:c}${4:=${5:0}}$0

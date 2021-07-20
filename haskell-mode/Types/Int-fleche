@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Int-flech
+# key: If
+# group: types-hs
+# --
+Int ->$0

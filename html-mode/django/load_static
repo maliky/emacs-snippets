@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: static-load
+# key: lds
+# group: html-django
+# --
+{% load static %}$0

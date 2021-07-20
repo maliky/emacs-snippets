@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: filepath
+# key: mfiepa
+# group: dj-models
+# --
+$1 = models.FilePathField()$0

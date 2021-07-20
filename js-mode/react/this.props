@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: this.props
+# key: tp
+# group: js-react
+# --
+this.props$0

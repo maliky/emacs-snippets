@@ -1,0 +1,5 @@
+# name: <link
+# key:link
+# group: html-base
+# --
+<link ${1:rel="${2:stylesheet}"} ${3:href="${4:url}"} ${5:type="${6:text/css}"} ${6:media="${7:screen}"} />

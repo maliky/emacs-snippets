@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: event.target.value
+# key: etv
+# group: js-react
+# --
+event.target.value

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: material-ui_core
+# key: muic
+# group: js-react
+# --
+@material-ui/core/

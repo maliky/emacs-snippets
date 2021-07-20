@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: end
+# key: ee
+# group: beamer
+# binding: direct-keybinding
+# --
+\end{$1}$0

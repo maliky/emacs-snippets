@@ -1,0 +1,16 @@
+# name: react-doctype
+# key: rdoct
+# group: html-struct
+# --
+<!DOCTYPE html>
+<html lang="${1:en}">
+  <head>
+     <meta charset="utf-8" />
+     <title>${2:title}</title>
+   $0
+  </head>
+  <body>
+    <div id="root"></div>
+    <script  src="{% static 'dist/main.js' %}"></script>
+  </body>
+</html>

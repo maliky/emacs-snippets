@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: for
+# key: dfor
+# group: html-django
+# --
+{% for $1 %}
+$0
+{% endfor %}

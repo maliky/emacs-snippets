@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Char
+# key: C
+# group: types-hs
+# --
+Char$0

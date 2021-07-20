@@ -1,0 +1,41 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: question
+# group: divers-general
+# key: q?
+# binding: direct-keybinding
+# $1 titre de la question
+# $2 texte de la question
+# $3 expression pmatch
+# $4 option de pmatch
+# --
+<!-- question: $1 -->
+  <question type="pmatch">
+    <name>
+      <text>geh_$1_160222</text>
+    </name>
+    <questiontext format="html">
+      <text><![CDATA[<p>$2</p>]]></text>
+    </questiontext>
+    <generalfeedback format="html">
+      <text></text>
+    </generalfeedback>
+    <defaultgrade>1.0000000</defaultgrade>
+    <penalty>0.3333333</penalty>
+    <hidden>0</hidden>
+    <usecase>0</usecase>
+    <allowsubscript>0</allowsubscript>
+    <allowsuperscript>0</allowsuperscript>
+    <forcelength>1</forcelength>
+    <applydictionarycheck>0</applydictionarycheck>
+    <extenddictionary></extenddictionary>
+    <converttospace>,;:/-</converttospace>
+    <answer fraction="100" format="moodle_auto_format">
+      <text>match_$4 ($3)
+</text>
+      <feedback format="html">
+        <text></text>
+      </feedback>
+    </answer>
+  </question>
+
+$0

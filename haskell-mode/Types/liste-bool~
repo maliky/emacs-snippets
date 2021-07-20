@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: liste-Bool
+# key: lb
+# --
+[Bool]$0

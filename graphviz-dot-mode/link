@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: link-label
+# key: lkl
+# --
+$1 -> $2 [label="$3"];
+$0

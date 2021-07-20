@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: verbatim
+# key: __verbatim
+# --
+#+BEGIN_VERBATIM
+$0
+#+END_VERBATIM

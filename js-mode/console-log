@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: consol-log
+# key: clog
+# group: js
+# --
+console.log($1)$0

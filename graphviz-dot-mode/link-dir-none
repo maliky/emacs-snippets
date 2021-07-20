@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: link-dir-none
+# key: ldn
+# --
+$1 -> $2 [dir="none"];
+$2 -> $3;
+$0

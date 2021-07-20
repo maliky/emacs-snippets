@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: less-or-equal-than
+# key: let
+# group: haskell
+# --
+<= $0

@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: tikz-draw-segment
+# key: tds
+# group: figures
+# binding: direct-keybinding
+# --
+\draw ($1,$2) -- ($3,$4) ;
+$0

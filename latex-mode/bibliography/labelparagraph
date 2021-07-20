@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: label-paragraph
+# key: lblp
+# group : bibliographie
+# binding: direct-keybinding
+# --
+\label{par:$1}$0

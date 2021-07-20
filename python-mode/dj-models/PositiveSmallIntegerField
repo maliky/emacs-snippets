@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: positivesmallinteger
+# key: mpoies
+# group: dj-models
+# --
+$1 = models.PositiveSmallIntegerField()$0

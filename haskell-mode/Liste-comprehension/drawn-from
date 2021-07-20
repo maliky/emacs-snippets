@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: drawn-from
+# key: df
+# --
+$1 <- $0

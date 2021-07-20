@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: type
+# key: t
+# group: haskell
+# --
+$1 :: $0

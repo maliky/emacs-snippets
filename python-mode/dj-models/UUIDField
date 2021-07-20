@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: uuid
+# key: muuid
+# group: dj-models
+# --
+$1 = models.UUIDField()$0

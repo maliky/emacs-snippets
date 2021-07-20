@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: ier
+# key: ier
+# binding: direct-keybinding
+# group: abbv
+# --
+1\ier{}$0

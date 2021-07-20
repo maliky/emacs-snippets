@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Int
+# key: I
+# group: types-hs
+# --
+Int$0

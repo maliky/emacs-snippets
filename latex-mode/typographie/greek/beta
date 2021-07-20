@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: beta
+# key: beta
+# group: typographie
+# binding: direct-keybinding
+# --
+\beta{}

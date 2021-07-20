@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: useState-def
+# key: us
+# group: js-react
+# --
+const [$1, set${1:$(capitalize yas-text)}] = React.useState($2)$0

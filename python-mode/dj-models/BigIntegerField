@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: biginteger
+# key: mbiie
+# group: dj-models
+# --
+$1 = models.BigIntegerField()$0

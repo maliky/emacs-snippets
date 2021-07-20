@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gtitle
+# key: gt
+# group: gift
+# --
+::$1::$0

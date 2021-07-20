@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: @mixin
+# key: cmix
+# group: css-general
+# --
+@mixin $1($2);
+$0

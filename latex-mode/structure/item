@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: item
+# key: -
+# group : structure
+# binding: direct-keybinding
+# --
+\item $0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gtal
+# key: gtal
+# group: man_glo
+# --
+\gls{tal}

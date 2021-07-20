@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: solution
+# key: sol
+# group: exam
+# --
+\begin{${1:$$(yas-choose-value '("solution" "solutionorbox" "solutionorlines" "solutionordottedlines"))}}
+$0
+\end{$1}

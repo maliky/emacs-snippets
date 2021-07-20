@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: guillemets
+# key: gof
+# group: typographie
+# binding: direct-keybinding
+# --
+\og{}~$1~\fg{}$0

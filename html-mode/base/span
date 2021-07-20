@@ -1,0 +1,5 @@
+# name: span
+# key: sp
+# group: html-base
+# --
+<span$1>$0</span>

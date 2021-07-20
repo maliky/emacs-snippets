@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: runtime_cell
+# key: orc
+# group: js-obs
+# --
+new Runtime().module(notebook, name => {
+    if (name === "${1:Chart}") {
+       return new Inspector(document.querySelector("#$1"));
+});

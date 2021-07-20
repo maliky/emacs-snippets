@@ -1,0 +1,5 @@
+# name: font-size
+# key: fts
+# group: css-general
+# --
+font-size: ${12px};

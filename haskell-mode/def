@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: def
+# key: d
+# --
+${1:function-name} :: $2 ${3:->}$0

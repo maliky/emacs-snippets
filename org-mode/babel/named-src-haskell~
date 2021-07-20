@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src-haskell
+# key: __nh
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+NAME: $3
+#+BEGIN_SRC haskell
+$0
+#+END_SRC

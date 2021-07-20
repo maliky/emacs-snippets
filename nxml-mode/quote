@@ -1,0 +1,7 @@
+# name: <blockquote
+# key: <block
+# group: nxml-base
+# --
+<blockquote>
+  $1
+</blockquote>

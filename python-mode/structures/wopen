@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: wopen
+# key: wo
+# group: structures
+# --
+with open($1, mode="${2:r}") as f:
+     $0

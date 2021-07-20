@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: binary
+# key: mbiay
+# group: dj-models
+# --
+$1 = models.BinaryField()$0

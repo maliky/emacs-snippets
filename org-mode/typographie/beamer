@@ -1,0 +1,11 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: :beamer
+# key: :bea
+# group: typographie
+# binding: direct-keybinding
+# --
+:PROPERTIES:
+:BEAMER_COL: ${1:0.48}
+:BEAMER_ENV: block
+:END:
+$0

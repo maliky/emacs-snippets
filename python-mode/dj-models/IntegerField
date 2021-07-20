@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: integer
+# key: mie
+# group: dj-models
+# --
+$1 = models.IntegerField()$0

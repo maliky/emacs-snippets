@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: smallinteger
+# key: msaie
+# group: dj-models
+# --
+$1 = models.SmallIntegerField()$0

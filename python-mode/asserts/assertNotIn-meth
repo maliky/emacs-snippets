@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assetNotIn
+# key: man
+# group: asserts-meth
+# --
+self.assertNotIn(${1:member}, ${2:container})

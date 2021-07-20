@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: tag_className
+# key: rtc
+# group: js-react
+# --
+<$1 className="$2">$0</$1>

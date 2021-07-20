@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: includegraphics_overlay
+# key: igo
+# group: figures
+# --
+\includegraphics<$2>[width=$1\textwidth]{$0}

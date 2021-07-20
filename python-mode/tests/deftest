@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: test_def
+# key: tdef
+# group: testing
+# --
+def test_${1:long_name}(self):
+    $0

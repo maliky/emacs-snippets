@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: set-key
+# key: €sk
+# group: init
+# --
+(global-set-key (kbd "$1") '$2)$0

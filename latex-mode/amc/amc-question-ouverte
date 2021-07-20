@@ -1,0 +1,12 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-question-ouverte
+# key: amco
+# group : amc
+# binding: direct-keybinding
+# --
+\element{ouvert}{
+\begin{question}{$1-qo$2}
+$3
+\AMCOpen{lines=1}{\amcob}
+\end{question}
+}$0

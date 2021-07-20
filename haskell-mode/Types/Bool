@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Bool
+# key: B
+# group: types-hs
+# --
+Bool $0

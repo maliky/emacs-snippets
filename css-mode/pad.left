@@ -1,0 +1,5 @@
+# name: padding-left
+# key: cpl
+# group: css-general
+# --
+padding-left: $1;

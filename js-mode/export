@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: export-def
+# key: expd
+# group: js
+# --
+export default $1;
+$0

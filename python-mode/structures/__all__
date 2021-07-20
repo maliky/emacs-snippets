@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: all
+# key: all
+# group: structures
+# --
+__all__ = [
+    $0
+]

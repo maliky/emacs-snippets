@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: subparts
+# key: sparts
+# group: exam
+# binding: direct-keybinding
+# --
+\begin{subparts}
+  \subpart $0
+\end{subparts}

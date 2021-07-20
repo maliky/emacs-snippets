@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: citetitle
+# key: citet
+# group : bibliographie
+# binding: direct-keybinding
+# --
+\citetitle{$1}$0

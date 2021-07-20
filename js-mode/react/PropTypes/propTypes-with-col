@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: proptypes-with-col
+# key: :pr
+# group: js-react
+# --
+$1: PropTypes.$0

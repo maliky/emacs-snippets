@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: ouvrir-guillemets
+# key: og
+# group: typographie
+# binding: direct-keybinding
+# --
+\og{}~$0

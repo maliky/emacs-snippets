@@ -1,0 +1,6 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: point_label
+# key: ptl
+# binding: direct-keybinding
+# --
+pair $1=($2,$3);  label("${4:$1}",${5:$4},${6:S});$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: self.. = ..
+# key: sa
+# group: Oo
+# --
+self.$1 = $1

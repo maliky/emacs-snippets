@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: end-itemize
+# key: ei
+# group: beamer
+# binding: direct-keybinding
+# --
+\end{itemize}$0

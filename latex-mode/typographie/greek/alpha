@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: alpha
+# key: alpha
+# group: typographie
+# binding: direct-keybinding
+# --
+\alpha{}

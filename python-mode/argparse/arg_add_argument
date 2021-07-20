@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: arg-add-argument
+# key: agaa
+# group: argparser
+# --
+${1:}_dft = $2
+$1_hlp = f"$3 (def. {$1_dft})."
+parser.add_argument("-$4", '--$4$5', $0, help=$1_hlp)

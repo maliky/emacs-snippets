@@ -1,0 +1,5 @@
+# name: font-family
+# key: cff
+# group: css-general
+# --
+font-family: $1;

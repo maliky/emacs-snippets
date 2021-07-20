@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: static
+# key: dsta
+# group: html-django
+# --
+{% static '$1' %}$0

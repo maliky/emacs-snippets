@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: regroup
+# key: dregroup
+# group: html-django
+# --
+{% regroup $1 as $0 %}

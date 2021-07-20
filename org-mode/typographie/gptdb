@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: glo_tableaux de bord
+# key: gptdb
+# group: man_glo
+# --
+\glspl{tdb}

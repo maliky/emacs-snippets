@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gtitle
+# key: gsh
+# group: gift
+# --
+{:SHORTANSWER:%100%$1}$0

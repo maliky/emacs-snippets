@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: __str__
+# key: str
+# group: functions  
+# --
+def __str__(self):
+    $0
+    return

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: begin_export
+# key: bg
+# group: begin_export
+# --
+
+#+BEGIN_EXPORT $1
+$0
+#+END_EXPORT

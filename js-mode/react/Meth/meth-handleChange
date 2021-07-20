@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: meth-handleChange
+# key: mhc
+# group: js-react
+# --
+handleChange(event) {
+$0
+}

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertTrue
+# key: mat
+# group: asserts-meth
+# --
+self.assertTrue($0)

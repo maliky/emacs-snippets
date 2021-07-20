@@ -1,0 +1,5 @@
+# name: margin top right bottom left
+# key: mall
+# group: css-general
+# --
+margin: ${top} ${right} ${bottom} ${left};

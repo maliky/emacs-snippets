@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: ifig
+# key: ifig
+# group: manuscrit
+# --
+#+ATTR_LATEX: :width ${3:.5}\textwidth ${4::float wrap}
+#+CAPTION: \label{fig:$2} $0
+[[file:Chapitre$1/Figures/$2.png]]

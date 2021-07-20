@@ -1,0 +1,5 @@
+# contributor: Jimmy Wu <frozenthrone88@gmail.com>
+# name: <tr>...</tr>
+# group: html-table
+# --
+<tr$1>$2</tr>

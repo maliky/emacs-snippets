@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: dcs
+# key: dcs
+# group: manuscrit
+# --
+\glspl{dc}

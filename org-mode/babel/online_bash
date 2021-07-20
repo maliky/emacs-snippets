@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: online_bash
+# key: _bash
+# --
+@@bash:$0@@

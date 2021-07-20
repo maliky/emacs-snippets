@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: Class
+# key: cl
+# group: js
+# --
+var ${1:name} = new Class({
+  initialize: function($2) {
+    $0
+  }
+});

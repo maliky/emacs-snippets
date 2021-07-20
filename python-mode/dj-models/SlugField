@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: slug
+# key: msu
+# group: dj-models
+# --
+$1 = models.SlugField()$0

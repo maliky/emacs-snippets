@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src-sass
+# key: __sass
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+BEGIN_SRC sass $1 -i
+$0
+#+END_SRC

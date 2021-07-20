@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: glossary-entry
+# group : glossary
+# key: ge
+# binding: direct-keybinding
+# --
+\newglossaryentry{${1:entry}}{name = ${2:nom}
+${3:, plural = {$4}}
+${5:, description = {$6}}
+${7:, see = {$8}}
+}$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: material-ui
+# key: mui
+# group: js-react
+# --
+@material-ui

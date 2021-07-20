@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: meth-mount
+# key: mcdm
+# group: js-react
+# --
+componentDidMount() {
+$1
+}$0

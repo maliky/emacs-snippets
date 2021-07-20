@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: Sum
+# key: Sum
+# group: math
+# binding: direct-keybinding
+# --
+\sum_{$1}^{$2}$0
+

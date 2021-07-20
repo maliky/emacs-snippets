@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: arg-login
+# key: agl
+# group: argparser
+# --
+logLevel_dft = "INFO"
+logLevel_hlp = f"Log level (def. {logLevel_dft})"
+parser.add_argument("-L", "--logLevel", default=logLevel_dft, help=logLevel_hlp)
+$0

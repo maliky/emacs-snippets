@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertRaises
+# key: mar
+# group: asserts-meth
+# --
+self.assertRaises(${1:Exception}, ${2:fun})

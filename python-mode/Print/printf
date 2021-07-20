@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: printf
+# key: pf
+# group: general
+# --
+print(f"$0")

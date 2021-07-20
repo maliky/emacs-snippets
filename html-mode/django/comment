@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: comment
+# key: dc
+# group: html-django
+# --
+{% comment "$1" %}
+$0
+{% endcomment %}

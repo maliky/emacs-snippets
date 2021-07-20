@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: left-right-brackets
+# key: lrb
+# group: math	
+# binding: direct-keybinding
+# --
+\left( $1 \right)$0

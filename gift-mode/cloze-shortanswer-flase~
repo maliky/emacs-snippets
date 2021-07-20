@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gshort-answer-false
+# key: gf
+# group: gift
+# --
+~%0%$2${3:#}$0

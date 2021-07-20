@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: datetime
+# key: mdaeti
+# group: dj-models
+# --
+$1 = models.DateTimeField()$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: image
+# key: miae
+# group: dj-models
+# --
+$1 = models.ImageField()$0

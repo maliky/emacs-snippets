@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: parts
+# key: parts
+# group: exam
+# binding: direct-keybinding
+# --
+\begin{parts}
+  \part $0
+\end{parts}

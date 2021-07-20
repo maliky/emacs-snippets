@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Import pandas
+# key: Ipd
+# group: import
+# --
+import pandas as pd
+$0

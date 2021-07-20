@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: oex
+# key: oex
+# group: ox
+# --
+#+BEGIN_exemple
+    $0
+#+END_exemple

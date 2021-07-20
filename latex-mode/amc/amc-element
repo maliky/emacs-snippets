@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-element
+# key: amce
+# group : amc
+# binding: direct-keybinding
+# --
+\element{$1}
+  $0
+}

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: url
+# key: murl
+# group: dj-models
+# --
+$1 = models.URLField()$0

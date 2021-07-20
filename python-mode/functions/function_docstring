@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: function_&_doc
+# key: fund
+# group: functions
+# --
+def ${1:name}($2):
+    \"\"\"
+    ${2:$(python-args-to-docstring)}
+    
+    Returns: $3
+    \"\"\"
+    $0

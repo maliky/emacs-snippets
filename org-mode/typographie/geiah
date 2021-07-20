@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: geiah
+# key: geiah
+# binding: direct-keybinding
+# group: man_glo
+# --
+\gls{eiah}

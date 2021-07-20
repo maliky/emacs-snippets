@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: begin-block
+# key: bb
+# group: beamer
+# binding: direct-keybinding
+# --
+\begin{block}$0

@@ -1,0 +1,7 @@
+
+# name: method
+# group: nxml-form
+# --
+<form method="$1" action="$2">
+  $0
+</form>

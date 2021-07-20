@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertIn
+# key: mai
+# group: asserts-meth
+# --
+self.assertIn(${1:member}, ${2:container})

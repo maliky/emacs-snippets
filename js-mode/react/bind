@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: input
+# key: rin
+# group: js-react
+# --
+<input ${1:value=$2}${3: type=$4}${5: name=$6}$7/>$0

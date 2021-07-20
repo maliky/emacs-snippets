@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: otheo
+# key: otheo
+# group: ox
+# --
+#+BEGIN_theorem
+    $0
+#+END_theorem

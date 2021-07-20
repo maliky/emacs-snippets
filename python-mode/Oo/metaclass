@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: metaclass
+# key: metac
+# group: Oo
+# --
+__metaclass__ = type

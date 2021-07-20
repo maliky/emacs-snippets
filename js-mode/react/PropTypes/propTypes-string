@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: propTypes-string
+# key: :prs
+# group: js-react
+# --
+$1: PropTypes.string

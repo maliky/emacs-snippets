@@ -1,0 +1,8 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-bonne
+# key: amcbr
+# group : amc
+# binding: direct-keybinding
+# --
+
+\bonne{$1}$0

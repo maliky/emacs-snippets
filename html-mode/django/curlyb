@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: {%
+# key: {%
+# group: html-django
+# --
+{% '$1' %$0

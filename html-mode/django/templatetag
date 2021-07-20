@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: templatetag
+# key: dtemplatet
+# group: html-django
+# --
+{% templatetag open$0 %}
+
+{% templatetag close{$0} %}

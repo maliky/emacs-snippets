@@ -1,0 +1,5 @@
+# name: padding-bottom
+# key: cpb
+# group: css-general
+# --
+padding-bottom: $1;

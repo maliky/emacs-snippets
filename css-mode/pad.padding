@@ -1,0 +1,4 @@
+# name: padding: top right bottom left
+# group: css-general
+# --
+padding: ${top} ${right} ${bottom} ${left};

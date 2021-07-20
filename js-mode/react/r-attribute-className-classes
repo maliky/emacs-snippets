@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: r-attribute-className-c
+# key: acnc
+# group: js-react
+# --
+className={classes.$1}$0

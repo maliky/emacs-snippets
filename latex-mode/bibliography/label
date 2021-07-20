@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: label
+# key: lbl
+# group : bibliographie
+# binding: direct-keybinding
+# --
+\label{$1:$2}$0

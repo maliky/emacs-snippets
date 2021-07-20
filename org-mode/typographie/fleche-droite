@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: fleche-droite
+# key: fld
+# group: typographie
+# --
+->$0

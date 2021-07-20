@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: background-color
+# key: cbc
+# group: css-general
+# --
+background-color: #${1:DDD};

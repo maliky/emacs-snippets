@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src-xml
+# key: __x
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+BEGIN_SRC xml
+$0
+#+END_SRC

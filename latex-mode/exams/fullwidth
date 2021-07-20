@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: fw
+# key: fw
+# binding: direct-keybinding
+# group: exam
+# --
+\fullwidth{$0}

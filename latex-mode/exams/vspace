@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: vs
+# key: vs
+# binding: direct-keybinding
+# group: exam
+# --
+\vspace{$0}

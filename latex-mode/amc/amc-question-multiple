@@ -1,0 +1,19 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-question-multiple
+# key: amcm
+# group : amc
+# binding: direct-keybinding
+# --
+\element{multiple}{
+\begin{questionmult}{$1-m$2}\bareme{\barQmulti}
+$3
+\begin{multicols}{4}
+\begin{reponses}
+\bonne{$4}
+${5:\bonne{$6}}
+${7:\bonne{$8}}
+${9:\bonne{$10}}$0
+\end{reponses}
+\end{multicols}
+\end{questionmult}
+}

@@ -1,0 +1,13 @@
+# -*- mode: snippet -*-
+# name: class_init
+# key: cli
+# group: structures
+# --
+class ${1:class}${2:(${3:ext})}:
+
+    def __init__(self${4: ,${5:args}}):
+        \"\"\"$6
+        ${5:$(python-args-to-docstring)}
+        \"\"\"
+        $0
+

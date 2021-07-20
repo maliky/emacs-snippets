@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: exec
+# key: bp
+# group: exec
+# --
+#!/usr/bin/python3.8

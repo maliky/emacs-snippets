@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: a fleche
+# key: af
+# group: types-hs
+# --
+a ->$0

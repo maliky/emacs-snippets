@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: citeauthoryear
+# key: citeay
+# group : bibliographie
+# binding: direct-keybinding
+# --
+\citeauthor{$1} (\citeyear{$1})$0

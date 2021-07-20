@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: withratio
+# key: dwr
+# group: html-django
+# --
+{% widthratio $0 %}

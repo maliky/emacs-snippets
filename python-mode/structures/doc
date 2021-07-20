@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: doc
+# group: structures
+# key: d
+# --
+"""
+$0
+"""

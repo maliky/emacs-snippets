@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: firstof
+# key: dfo
+# group: html-django
+# --
+{% firstof $0 %}

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: div className
+# key: rdc
+# group: js-react
+# --
+<div className="$1">$0</div>

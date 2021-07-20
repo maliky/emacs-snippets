@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: propTypes-bool
+# key: :prb
+# group: js-react
+# --
+$1: PropTypes.bool

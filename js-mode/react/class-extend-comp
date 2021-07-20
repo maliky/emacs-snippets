@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: reactDOM.render
+# key: rdr
+# group: js-react
+# --
+
+ReactDOM.render($1, document.getElementById('$2'))$0
+

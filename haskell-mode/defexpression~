@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: def1
+# key: def1
+# --
+${1:function-name} :: ${2:type} -> ${3:Int}
+$0 $1 ${4:arguments} = ${5:expr}

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: oplan
+# key: opl
+# group: ox
+# --
+#+BEGIN_plan
+    $0
+#+END_plan
+

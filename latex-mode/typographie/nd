@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: nd
+# key: nd
+# group: typographie
+# binding: direct-keybinding
+# --
+$1\nd{} $0

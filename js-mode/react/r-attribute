@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: r-attribute
+# key: ra
+# group: js-react
+# --
+$1={$2}$0

@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: listing
+# key: lst
+# group : structure
+# binding: direct-keybinding
+# --
+\begin{lstlisting}[float,label=lst:${1:label},caption=nextHopInfo: ${2:caption}]
+$0
+\end{lstlisting}

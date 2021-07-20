@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: onChange
+# key: aoc
+# group: js-react
+# --
+onChange={${1:this.handleChange}$2}$0

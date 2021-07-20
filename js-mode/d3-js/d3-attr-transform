@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: d3.attr-transform
+# key: .at
+# group: js-d3
+# --
+.attr("transform", \`translate($1,$0)\`)

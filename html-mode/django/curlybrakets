@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: {% static
+# key: {%s
+# group: html-django
+# --
+{% static '$1' %$0

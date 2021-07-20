@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: fstring
+# key: f=
+# group: js
+# --
+`$1={${1:var}}`$0

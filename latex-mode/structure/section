@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: section
+# key: sec
+# group : structure
+# binding: direct-keybinding
+# --
+\section{${1:name}}
+${2:\label{sec:${3:label}}}
+$0

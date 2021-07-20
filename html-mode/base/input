@@ -1,0 +1,5 @@
+# name: <input
+# key: input
+# group: html-base
+# --
+<input ${1:value="$2"}${3: type="$4"}${5: name="$6"} $7/>$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: question
+# group: exam
+# key: q
+# --
+\question[$1]$0

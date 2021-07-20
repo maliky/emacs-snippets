@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: _label
+# key: _lbl
+# group: manuscrit
+# --
+@@latex:\label{$1}@@$0

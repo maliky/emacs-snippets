@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: json-object
+# key: jo
+# group: js-json
+# --
+"$1": {$0}

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: auto
+# key: mauo
+# group: dj-models
+# --
+$1 = models.AutoField()$0

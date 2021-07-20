@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: propTypes-with-dot
+# key: .pr
+# group: js-react
+# --
+$1.propTypes = {
+$0
+}

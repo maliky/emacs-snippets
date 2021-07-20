@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src-java
+# key: __j
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+BEGIN_SRC java
+$0
+#+END_SRC

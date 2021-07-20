@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: import-full-with-copy
+# key: imc
+# group: js
+# --
+import {$1} from "$2$1";$0

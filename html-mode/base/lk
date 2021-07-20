@@ -1,0 +1,5 @@
+# name: simple link
+# key: lk
+# group: html-base
+# --
+<link ${1:rel="${2:stylesheet}"} ${3:type="${4:text/css}"} ${5:media="${6:screen}"} ${7:href="$0"}/>

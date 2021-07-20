@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: this.state
+# key: ts
+# group: js-react
+# --
+this.state$0

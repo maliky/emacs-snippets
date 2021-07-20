@@ -1,0 +1,5 @@
+# name: margin-bottom
+# key: cmb
+# group: css-general
+# --
+margin-bottom: $1;

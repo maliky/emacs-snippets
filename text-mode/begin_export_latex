@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: begin_export_latex
+# key: bgl
+# group: begin_export
+# --
+
+#+BEGIN_EXPORT latex
+$0
+#+END_EXPORT

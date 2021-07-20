@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: subparagraph
+# key: spar
+# group : structure
+# binding: direct-keybinding
+# --
+\subparagraph{$1}
+${2:\label{spar:$3$1}}
+$0

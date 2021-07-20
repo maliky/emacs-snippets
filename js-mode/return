@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: return
+# key: r
+# group: js
+# --
+return $0

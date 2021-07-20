@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: overlay-only
+# key: ovo
+# group: beamer
+# binding: direct-keybinding
+# --
+\only<$1>{
+$0
+}

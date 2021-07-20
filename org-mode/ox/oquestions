@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: oquestions
+# key: oques
+# group: ox
+# --
+#+BEGIN_questions
+    $0
+#+END_questions

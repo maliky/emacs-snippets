@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: meth-componentDidCatch
+# key: mcdc
+# group: js-react
+# --
+componentDidCatch = (error, errorInfo) => {
+$0
+}

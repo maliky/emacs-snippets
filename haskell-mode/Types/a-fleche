@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Ord imp
+# key: oa
+# group: types-hs
+# --
+Ord ${1:a} => $0

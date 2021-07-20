@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: note
+# key: no
+# group : typographie
+# --
+\note{$0}

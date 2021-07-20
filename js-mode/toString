@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: toString
+# key: tstr
+# group: js
+# --
+toString()$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: font-code (romain)
+# key: cf
+# group: typographie
+# binding: direct-keybinding
+# --
+\cfont{$1}$0

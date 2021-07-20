@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: nullboolean
+# key: mnuboe
+# group: dj-models
+# --
+$1 = models.NullBooleanField()$0

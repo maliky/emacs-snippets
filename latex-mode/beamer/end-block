@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: end-block
+# key: eb
+# group: beamer
+# binding: direct-keybinding
+# --
+\end{block}$0

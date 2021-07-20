@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: float
+# key: mfoa
+# group: dj-models
+# --
+$1 = models.FloatField()$0

@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: odemo
+# key: odemo
+# group: ox
+# --
+#+BEGIN_demonstration
+    $0
+#+END_demonstration

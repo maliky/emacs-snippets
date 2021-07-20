@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: includegraphics
+# key: ig
+# group: figures
+# --
+\includegraphics[width=$1\textwidth]{$0}

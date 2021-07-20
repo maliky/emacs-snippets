@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: list²-a
+# key: lla
+# group: types-hs
+# --
+[[a]]$0

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: textbf
+# key: b
+# group: typographie
+# --
+\textbf{$1}$0

@@ -1,0 +1,10 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src-asymptote
+# key: __asy
+# binding: direct-keybinding
+# group: ox-babel
+# --
+${4:#+NAME: $5}
+#+BEGIN_SRC asymptote $1 ${2: :file $3} -i
+$0
+#+END_SRC

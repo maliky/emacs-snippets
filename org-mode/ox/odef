@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: odefinition
+# key: odef
+# group: ox
+# --
+#+BEGIN_definition
+    $0
+#+END_definition

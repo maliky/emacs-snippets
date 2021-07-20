@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: from-import
+# key: fim
+# group: import
+# --
+from ${1:lib} import $2${3: as ${4:alias}}
+$0

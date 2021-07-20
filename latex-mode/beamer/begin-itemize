@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: begin-itemize
+# key: bi
+# group: beamer
+# binding: direct-keybinding
+# --
+\begin{itemize}$0

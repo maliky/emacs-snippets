@@ -1,0 +1,5 @@
+# name: <a name="..."></a>
+# group: html-base
+# key:an
+# --
+<a name="$1"></a>

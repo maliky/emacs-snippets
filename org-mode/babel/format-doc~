@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: format-doc
+# key: fdt
+# --
+format-doc(*this*)$0

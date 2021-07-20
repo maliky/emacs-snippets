@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: event.target
+# key: et
+# group: js-react
+# --
+event.target

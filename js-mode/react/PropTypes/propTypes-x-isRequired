@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: propTypes-x-isRequired
+# key: :prr
+# group: js-react
+# --
+$1: PropTypes.$0.isRequired

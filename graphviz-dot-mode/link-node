@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: link-node
+# key: lkn
+# --
+$1 [label="$2", shape="plaintext"];
+$3 -> $1 [dir="none"];
+$1 -> $4;

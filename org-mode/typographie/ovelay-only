@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: overlay-only
+# key: ovo
+# group: typo
+# --
+@@latex:\only<$1>{@@
+$0
+@@latex:}@@

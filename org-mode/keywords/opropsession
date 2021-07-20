@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: #+property_session
+# key: #ps
+# binding: direct-keybinding
+# group: ox-keyword
+# --
+#+PROPERTY:  header-args :session $0  :exports both :results raw drawer :cache no

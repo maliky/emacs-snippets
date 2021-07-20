@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: foreignKey
+# key: mfrk
+# group: dj-models
+# --
+$2 = models.ForeignKey('$1', on_delete=models.CASCADE, related_name='prec', null=True)$0

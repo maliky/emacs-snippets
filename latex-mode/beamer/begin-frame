@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: begin-frame
+# key: bf
+# group: beamer
+# binding: direct-keybinding
+# --
+\begin{frame}$0

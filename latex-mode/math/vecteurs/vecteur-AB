@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: script C
+# key: sC
+# group: math
+# binding: direct-keybinding
+# --
+\mathscr{${1:C}}$0

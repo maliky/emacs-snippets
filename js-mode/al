@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: alert
+# key: alert
+# group: js
+# --
+alert($0);

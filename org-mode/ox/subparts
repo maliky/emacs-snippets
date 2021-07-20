@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: osubparts
+# key: osp
+# group: ox
+# --
+#+BEGIN_subparts
+    $0
+#+END_subparts

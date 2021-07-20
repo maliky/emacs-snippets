@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: gtableaud de bord
+# key: gdb
+# group: manuscrit
+# --
+\gls{tb}

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: liste-Bool
+# key: lb
+# group: types-hs
+# --
+[Bool]$0

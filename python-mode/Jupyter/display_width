@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: display.width
+# key: pddw
+# group: jupyter
+# --
+pd.set_option('display.width', $0)

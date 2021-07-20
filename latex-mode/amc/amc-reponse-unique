@@ -1,0 +1,19 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-reponse-unique
+# key: amcu
+# group : amc
+# binding: direct-keybinding
+# --
+\element{unique}{
+\begin{question}{$1-u$2}\bareme{\barQunique}
+$3
+\begin{multicols}{4}
+\begin{reponses}
+\bonne{$$4$}
+\mauvaise{$$5$}
+\mauvaise{$$6$}
+\mauvaise{$$7$}
+\end{reponses}
+\end{multicols}
+\end{question}
+}$0

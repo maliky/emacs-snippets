@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: char
+# key: mca
+# group: dj-models
+# --
+$1 = models.CharField()$0

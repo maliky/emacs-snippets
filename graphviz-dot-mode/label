@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: label
+# key: lb
+# --
+$1 [label="$2", shape="plaintext"];
+$0

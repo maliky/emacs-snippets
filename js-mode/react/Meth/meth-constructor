@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# name: meth-constructor
+# key: mcs
+# group: js-react
+# --
+constructor(props) {
+	super(props);
+	this.state = {$1: $2}$0
+}

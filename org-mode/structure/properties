@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: :properties:
+# key: :pr
+# group: structure
+# --
+:PROPERTIES:
+$0
+:END:

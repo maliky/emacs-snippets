@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: list-char
+# key: lc
+# --
+[Char] $0

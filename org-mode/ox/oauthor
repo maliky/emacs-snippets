@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: author
+# key: oauth
+# binding: direct-keybinding
+# group: ox
+# --
+#+AUTHOR: $0

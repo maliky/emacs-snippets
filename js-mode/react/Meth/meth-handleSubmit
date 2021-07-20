@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: meth-handleSubmitf
+# key: mhs
+# group: js-react
+# --
+handleSubmit(event) {
+$0
+}

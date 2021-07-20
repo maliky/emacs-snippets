@@ -1,0 +1,9 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: filter
+# key: df
+# group: html-django
+# --
+{% filter $1 %}
+$0
+{% endfilter %}

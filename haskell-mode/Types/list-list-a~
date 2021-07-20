@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: list-a
+# key: la
+# group: types-hs
+# --
+[a]$0

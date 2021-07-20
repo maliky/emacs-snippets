@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: addEvent
+# key: ae
+# group: js
+# --
+addEvent('${1:event}', function($2) {
+  $0
+});

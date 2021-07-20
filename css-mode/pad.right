@@ -1,0 +1,5 @@
+# name: padding-right
+# key: cpr
+# group: css-general
+# --
+padding-right: $1;

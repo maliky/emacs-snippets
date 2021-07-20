@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: setInterval
+# key: sint
+# group: js-animation
+# --
+setInterval($1, $2)$0

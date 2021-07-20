@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: clearInterval
+# key: cint
+# group: js-animation
+# --
+clearInterval($1)$0

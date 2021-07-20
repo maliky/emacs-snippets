@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: onetoone
+# key: moetoo
+# group: dj-models
+# --
+$1 = models.OneToOneField()$0

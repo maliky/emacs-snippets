@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: nodegraph
+# key: ng
+# group: js-json
+# --
+{"label": "$1", "x": $2,"y": $3},
+$0

@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: multicols
+# key: mcols
+# group : structure
+# binding: direct-keybinding
+# --
+\begin{multicols}{${1:2}}
+$0
+\end{multicols}

@@ -1,0 +1,10 @@
+# -*- mode: snippet -*-
+# name: docstring
+# key: fd
+# group: functions
+# --
+\"\"\"$3
+${1:$(python-args-to-docstring)}
+Returns: $2
+\"\"\"
+$0

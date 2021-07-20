@@ -1,0 +1,5 @@
+# name: margin
+# key: mrg
+# group: css-general
+# --
+margin: $1;

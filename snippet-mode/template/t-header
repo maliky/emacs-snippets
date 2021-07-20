@@ -1,0 +1,12 @@
+# -*- mode: snippet -*-
+# name: base template
+# key: tb
+# group: template
+# --
+# -*- mode: snippet -*-
+# contributor : been@noos.sphere
+# name: $1
+# key: $2
+# group : header
+# --
+$0

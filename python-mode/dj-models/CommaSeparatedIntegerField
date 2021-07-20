@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: commaseparatedinteger
+# key: mcoase
+# group: dj-models
+# --
+$1 = models.CommaSeparatedIntegerField()$0

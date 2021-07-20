@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: oparts
+# key: oparts
+# group: ox
+# --
+#+BEGIN_parts
+    $0
+#+END_parts

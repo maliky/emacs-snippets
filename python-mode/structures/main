@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: __main__
+# key: main
+# group: structure
+# --
+def main():
+    """$1"""
+    $0
+
+if __name__ == "__main__":
+    main()

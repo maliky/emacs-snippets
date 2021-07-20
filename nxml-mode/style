@@ -1,0 +1,7 @@
+# name: <style type media
+# key: <stm
+# group: nxml-base
+# --
+<style type="text/css" media="${1:screen}">
+  $0
+</style>

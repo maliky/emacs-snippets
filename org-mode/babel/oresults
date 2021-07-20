@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# results: oresults
+# key: ores
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+RESULTS: $0

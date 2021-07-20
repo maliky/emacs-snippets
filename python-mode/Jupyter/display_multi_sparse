@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: display.multi_sparse
+# key: pddw
+# group: jupyter
+# --
+pd.set_option('display.multi_sparse', False)$0

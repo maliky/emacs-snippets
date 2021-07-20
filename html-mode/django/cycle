@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: cycle
+# key: dcycle
+# group: html-django
+# --
+{% cycle $1 %}$0

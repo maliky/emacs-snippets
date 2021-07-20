@@ -1,0 +1,7 @@
+# name: <body>
+# key: <body
+# group: nxml-base
+# --
+<body$1>
+  $0
+</body>

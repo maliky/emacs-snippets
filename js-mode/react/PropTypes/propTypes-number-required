@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: propTypes-number-required
+# key: :prnr
+# group: js-react
+# --
+$1: PropTypes.number.isRequired$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: endblock
+# key: deb
+# group: html-django
+# --
+{% endblock %}$0

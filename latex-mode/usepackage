@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: usepackage
+# key: pkg
+# group: preambule
+# --
+\usepackage{$0}

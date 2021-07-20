@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: button
+# key: but
+# group: html5
+# --
+<button ${1:id="$2"} ${3:class="$4"$5}>$0</button>

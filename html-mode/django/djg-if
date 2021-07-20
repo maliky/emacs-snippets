@@ -1,0 +1,9 @@
+# contributor: Malik Koné <malik@kone.ci>
+# name: if
+# key: dif
+# group: html-django
+# binding: direct-keybinding
+# --
+{% if $1 %}
+$0
+{% endif %}

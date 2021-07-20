@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: textsc
+# key: sc
+# group: typographie
+# --
+\textsc{$1}$0

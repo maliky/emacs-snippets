@@ -1,0 +1,5 @@
+# name: padding-top
+# key:  cpt
+# group: css-general
+# --
+padding-top: $1;

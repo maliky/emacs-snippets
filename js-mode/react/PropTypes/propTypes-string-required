@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: propTypes-string-required
+# key: :prsr
+# group: js-react
+# --
+$1: PropTypes.string.isRequired

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: linkgraph
+# key: lg
+# group: js-json
+# --
+{"strength": $1, "source": "$2", "target": "$3"},
+$0

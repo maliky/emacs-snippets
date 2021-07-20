@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: log.error
+# key: lge
+# group: logging
+# --
+logging.error(f'${1:}={$1}$0')

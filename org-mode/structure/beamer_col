@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: :BEAMER_COL:
+# key: :bc
+# group: structure
+# --
+:BEAMER_COL: $0

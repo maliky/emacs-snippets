@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assert-true
+# key: at
+# group: asserts
+# --
+assert $1${2:, f"$3"}$0

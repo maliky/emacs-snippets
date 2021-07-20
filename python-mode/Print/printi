@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: printi
+# key: pi
+# group: general
+# --
+print(f"$3 {$1}/{$2}:", end='\r')$0

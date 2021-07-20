@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: tag_className
+# key: rf
+# group: js-react
+# --
+<React.Fragment>
+$0
+</React.Fragment>

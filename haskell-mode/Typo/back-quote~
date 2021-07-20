@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: back-quote
+# key: bq
+# --
+\`$0\`

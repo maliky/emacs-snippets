@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: include
+# key: di
+# group: html-django
+# --
+{% include $0 %}
+

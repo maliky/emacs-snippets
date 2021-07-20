@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: #+call
+# key: #call
+# binding: direct-keybinding
+# group: ox-keywords
+# --
+#+CALL: $0

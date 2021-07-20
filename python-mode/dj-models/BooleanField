@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: boolean
+# key: mboea
+# group: dj-models
+# --
+$1 = models.BooleanField()$0

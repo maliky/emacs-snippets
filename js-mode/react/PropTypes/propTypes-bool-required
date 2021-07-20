@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: propTypes-bool-required
+# key: :prbr
+# group: js-react
+# --
+$1: PropTypes.bool.isRequired$0

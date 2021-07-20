@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: load_autoreload-full
+# key: %laa
+# group: jupyter
+# --
+%load_ext autoreload
+%autoreload 1
+# use %aimport to get set autoreload on specific module

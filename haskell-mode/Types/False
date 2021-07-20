@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: False
+# key: F
+# group: types-hs
+# --
+False $0

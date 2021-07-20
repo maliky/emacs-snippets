@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: argument_parse
+# key: agp
+# group: argparser
+# --
+args = parse_arguments()$0

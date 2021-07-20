@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: online_latex
+# key: _l
+# --
+@@latex:$0@@

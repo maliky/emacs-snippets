@@ -1,0 +1,11 @@
+# -*- mode: snippet -*-
+# name: meth-render
+# key: mrd
+# group: js-react
+# --
+
+render() {
+return (
+$0
+)
+}

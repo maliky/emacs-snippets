@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fleche-gauche
+# key: fg
+# --
+<- $0

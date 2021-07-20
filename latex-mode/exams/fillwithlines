@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: fillwithlines
+# key: fwl
+# binding: direct-keybinding
+# group: exam
+# --
+\fillwithlines{$0cm}

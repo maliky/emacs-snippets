@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: oheader
+# key: ohead
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+HEADER: $0

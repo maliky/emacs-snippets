@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Char fleche
+# key: Cf
+# --
+Char ->$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: xij-plus-moins
+# key: xijp
+# group: math
+# binding: direct-keybinding
+# --
+x_{${1:ij}}^{(${2:ij}\pm)}$0

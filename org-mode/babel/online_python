@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: online_python
+# key: _py
+# --
+@@python:$0@@

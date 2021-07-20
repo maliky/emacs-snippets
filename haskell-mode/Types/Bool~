@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: Bool
+# key: B
+# --
+Bool $0

@@ -1,0 +1,19 @@
+# -*- mode: snippet -*-
+# name: rclass-template
+# key: rct
+# group: js-react
+# --
+import React from "react";
+
+export class $1 extends React.Component {
+    constructor(props) {
+	super(props);
+    }
+
+    render() {
+	return (
+	    $0
+	)
+    }
+
+}

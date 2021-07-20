@@ -1,0 +1,5 @@
+# name: img
+# key: <img
+# group: nxml-base
+# --
+<img src="$1" alt="$2" />

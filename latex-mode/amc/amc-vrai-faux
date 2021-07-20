@@ -1,0 +1,21 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: amc-vrai-ou-faux
+# key: amcvf
+# group : amc
+# binding: direct-keybinding
+# --
+\element{vraifaux}{
+\begin{question}{$1-vf$2a}{\barVF}
+$3
+\begin{multicols}{2}
+\begin{reponses}
+\bonne{$4}
+\mauvaise{$5}
+\end{reponses}
+\end{multicols}
+\end{question}
+\begin{question}{$1-vf$2b}
+  \AMCOpen{lines=2}{\amcob}
+\end{question}
+}
+$0

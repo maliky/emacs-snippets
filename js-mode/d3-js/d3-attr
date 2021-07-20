@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: d3.attr
+# key: .a
+# group: js-d3
+# --
+.attr("$1", $0)

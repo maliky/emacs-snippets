@@ -1,0 +1,9 @@
+# -*- mode: snippet; require-final-newline: nil -*-
+# name: src-ipython
+# key: __ip
+# binding: direct-keybinding
+# group: ox-babel
+# --
+#+BEGIN_SRC ipython $1
+$0
+#+END_SRC

@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: logging
+# key: dlog
+# group: debug
+# --
+logging.debug(f'${1:}={$1}$2')$0

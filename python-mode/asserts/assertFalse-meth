@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: assertFalse
+# key: maf
+# group: asserts-meth
+# --
+self.assertFalse($0)

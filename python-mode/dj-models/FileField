@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: file
+# key: mfie
+# group: dj-models
+# --
+$1 = models.FileField()$0

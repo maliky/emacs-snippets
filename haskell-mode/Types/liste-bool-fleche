@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: liste-Bool-fleche
+# key: lbf
+# group: types-hs
+# --
+[Bool] ->$0

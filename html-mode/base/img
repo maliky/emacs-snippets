@@ -1,0 +1,5 @@
+# name: img
+# key:img
+# group: html-base
+# --
+<img src="$1" ${2:alt="$3"}/>

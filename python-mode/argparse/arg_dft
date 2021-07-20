@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: arg-default
+# key: agdf
+# group: argparser
+# --
+default = $1_dft$0

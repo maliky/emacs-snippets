@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: lambda
+# key: lbd
+# group: functions
+# --
+lambda ${1:x}: $0

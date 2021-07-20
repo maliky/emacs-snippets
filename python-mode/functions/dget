@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: dget
+# key: dget
+# group: functions
+# --
+def get(self, request):
+    context = {$0}
+    return

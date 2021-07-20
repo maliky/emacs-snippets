@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: citep
+# key: citep
+# group : bibliographie
+# binding: direct-keybinding
+# --
+\citep{$1}$0

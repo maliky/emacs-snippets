@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: list-char-fleche
+# key: lcf
+# --
+[Char] ->$0

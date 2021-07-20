@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: online_code
+# key: _c
+# --
+@@${1:lang}:$0@@

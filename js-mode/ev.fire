@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: fireEvent
+# key: fe
+# group: js
+# --
+fireEvent('$0')

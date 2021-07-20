@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: aimport
+# key: %ai
+# group: jupyter
+# --
+%aimport $0

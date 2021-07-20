@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: Eqa
+# key: eqi
+# group: types-hs
+# --
+Eq ${1:a} => $0

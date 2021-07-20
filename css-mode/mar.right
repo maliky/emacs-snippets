@@ -1,0 +1,5 @@
+# name: margin-right
+# key: cmr
+# group: css-general
+# --
+margin-right: $1;

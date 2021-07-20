@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: node-link
+# key: nlk
+# --
+$1 [label="$2", shape="plaintext"];
+$0

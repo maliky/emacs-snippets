@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# contributor: Malik Koné <malik@kone.ci>
+# name: lorem
+# key: dlorem
+# group: html-django
+# --
+{% lorem $0 %}
+

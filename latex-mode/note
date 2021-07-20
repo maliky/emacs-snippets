@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: note
+# key: no
+# group: divers
+# --
+\note{$0}

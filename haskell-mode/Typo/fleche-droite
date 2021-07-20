@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: fleche-droite
+# key: f
+# --
+-> $0

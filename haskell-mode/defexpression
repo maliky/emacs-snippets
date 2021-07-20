@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: def_expression
+# key: defe
+# --
+${1:function-name} :: ${2:type} -> ${3:Int}
+$1 ${4:arguments} = ${5:expr} $0

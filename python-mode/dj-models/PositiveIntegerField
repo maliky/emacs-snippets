@@ -1,0 +1,6 @@
+# -*- mode: snippet -*-
+# name: positiveinteger
+# key: mpoiei
+# group: dj-models
+# --
+$1 = models.PositiveIntegerField()$0

@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: citeauthor
+# key: citea
+# group : bibliographie
+# binding: direct-keybinding
+# --
+\citeauthor{$1}$0

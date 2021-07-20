@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# name: rfac
+# key: o
+# --
+$1 `rfac` $0

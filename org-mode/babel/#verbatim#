@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: join_src
+# key: __eb
+# --
+#+BEGIN_VERSE
+$0
+#+END_VERSE
